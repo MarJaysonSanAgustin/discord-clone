@@ -24,7 +24,18 @@ Features:
 
 ### Demo:
 
-(Coming soon!)
+[Click this demo link 🡥](https://discord-clone-production-41b9.up.railway.app/)
+
+### Screenshots
+
+Chat UI
+![Channels](screenshots/channels.png)
+
+Video/Audio Channels
+![Video Channels](screenshots/video-channels.png)
+
+System/Light/Dark Mode
+![Light and Dark Mode](screenshots/light.png)
 
 ### Prerequisites
 
