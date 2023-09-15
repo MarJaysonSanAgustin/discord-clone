@@ -24,7 +24,7 @@ Features:
 
 ### Demo:
 
-[Click this demo link 🡥](https://discord-clone-production-41b9.up.railway.app/)
+[Click this demo link 🡥](https://discord-clone-production-41b9.up.railway.app/){:target="_blank"}
 
 ### Screenshots
 
@@ -100,5 +100,5 @@ Running commands with npm `npm run [command]`
 
 ### Learning Material
 
-- [@CodeWithAntonio](https://www.youtube.com/@codewithantonio)
-- [Video tutorial](https://www.youtube.com/watch?v=ZbX4Ok9YX94)
+- [@CodeWithAntonio](https://www.youtube.com/@codewithantonio){:target="_blank"}
+- [Video tutorial](https://www.youtube.com/watch?v=ZbX4Ok9YX94){:target="_blank"}
