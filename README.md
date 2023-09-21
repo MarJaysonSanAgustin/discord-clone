@@ -1,6 +1,6 @@
-# Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL
+# Team Collaboration Platform: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL
 
-This is a repository for a Discord Clone using Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL, etc.
+This is a repository for a discord-like team collaboration platform using Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL, etc.
 
 Features:
 
